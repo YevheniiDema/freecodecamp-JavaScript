@@ -1,23 +1,12 @@
-// Understanding Uninitialized Variables
-// When JavaScript variables are declared, they have an initial value of undefined.
-//     If you do a mathematical operation on an undefined variable your result will be NaN which means
-// "Not a Number". If you concatenate a string with an undefined variable, you will get a string of undefined.
+// Explore Differences Between the var and let Keywords
+// One of the biggest problems with declaring variables with the var keyword is that you can easily overwrite variable declarations:
 //
-//     Initialize the three variables a, b, and c with 5, 10, and "I am a" respectively so that they will
-// not be undefined.Understanding Uninitialized Variables
-// When JavaScript variables are declared, they have an initial value of undefined. If you do a mathematical
-// operation on an undefined variable your result will be NaN which means "Not a Number". If you concatenate a
-// string with an undefined variable, you will get a string of undefined.
+//     var camper = "James";
+// var camper = "David";
+// console.log(camper);
+// So unlike var, when you use let, a variable with the same name can only be declared once.
 //
-//     Initialize the three variables a, b, and c with 5, 10, and "I am a" respectively so that they will not
-// be undefined.
+//     Update the code so it only uses the let keyword.
 
-// Only change code below this line
-var a = 5;
-var b = 10;
-var c = "I am a";
-// Only change code above this line
-
-a = a + 1;
-b = b + 5;
-c = c + " String!";
+let catName = "Oliver";
+let catSound = "Meow!";
