@@ -1,20 +1,18 @@
-// Use Bracket Notation to Find the Nth-to-Last Character in a String
-// You can use the same principle we just used to retrieve the last character in a string to retrieve the Nth-to-last character.
+// Access Array Data with Indexes
+//     We can access the data inside arrays using indexes.
 //
-//     For example, you can get the value of the third-to-last letter of the const firstName = "Augusta" string by using firstName[firstName.length - 3]
+//     Array indexes are written in the same bracket notation that strings use, except that instead of specifying a character, they are specifying an entry in the array. Like strings, arrays use zero-based indexing, so the first element in an array has an index of 0.
 //
-// Example:
 //
-//     const firstName = "Augusta";
-// const thirdToLastLetter = firstName[firstName.length - 3];
-// thirdToLastLetter would have a value of the string s.
+// Example
 //
-//     Use bracket notation to find the second-to-last character in the lastName string.
+// const array = [50, 60, 70];
+// console.log(array[0]);
+// const data = array[1];
+// The console.log(array[0]) prints 50, and data has the value 60.
 //
-//     Hint: Try looking at the example above if you get stuck.
+// Create a variable called myData and set it to equal the first value of myArray using bracket notation.
+//
 
-// Setup
-const lastName = "Lovelace";
-
-// Only change code below this line
-const secondToLastLetterOfLastName = lastName[lastName.length-2]; // Change this line
+const myArray = [50, 60, 70];
+const myData = myArray[0];
