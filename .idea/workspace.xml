@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80cbd4fb-d1d9-4b41-a8db-e12e4e320dad" name="Changes" comment="Appending Variables to Strings" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2S7nfzK1epJQWhg23oE68zc7b1e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Studying/sandbox/desktop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80cbd4fb-d1d9-4b41-a8db-e12e4e320dad" name="Changes" comment="" />
+      <created>1688506604234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688506604234</updated>
+      <workItem from="1688506606031" duration="901000" />
+      <workItem from="1688576122965" duration="114000" />
+      <workItem from="1688576325314" duration="1010000" />
+      <workItem from="1688755098337" duration="1190000" />
+    </task>
+    <task id="LOCAL-00001" summary="Understanding Uninitialized Variables">
+      <option name="closed" value="true" />
+      <created>1688506728582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688506728582</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Understanding Uninitialized Variables">
+      <option name="closed" value="true" />
+      <created>1688506755638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688506755638</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Understanding Uninitialized Variables">
+      <option name="closed" value="true" />
+      <created>1688506793076</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688506793076</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Understanding Uninitialized Variables">
+      <option name="closed" value="true" />
+      <created>1688507156462</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688507156462</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Declare a Read-Only Variable with the const Keyword">
+      <option name="closed" value="true" />
+      <created>1688507492677</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688507492677</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Declare a Read-Only Variable with the const Keyword">
+      <option name="closed" value="true" />
+      <created>1688576620506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688576620506</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add Two Numbers with JavaScript">
+      <option name="closed" value="true" />
+      <created>1688576665269</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688576665269</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Divide One Number by Another with JavaScript">
+      <option name="closed" value="true" />
+      <created>1688576772153</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688576772153</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Constructing Strings with Variables">
+      <option name="closed" value="true" />
+      <created>1688755148170</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688755148170</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Appending Variables to Strings">
+      <option name="closed" value="true" />
+      <created>1688755378191</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688755378191</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Understanding Uninitialized Variables" />
+    <MESSAGE value="Declare a Read-Only Variable with the const Keyword" />
+    <MESSAGE value="Add Two Numbers with JavaScript" />
+    <MESSAGE value="Divide One Number by Another with JavaScript" />
+    <MESSAGE value="Constructing Strings with Variables" />
+    <MESSAGE value="Appending Variables to Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Appending Variables to Strings" />
+  </component>
+</project>
