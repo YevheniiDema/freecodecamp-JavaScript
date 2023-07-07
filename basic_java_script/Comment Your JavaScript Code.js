@@ -1,29 +1,14 @@
-// Access Multi-Dimensional Arrays With Indexes
-// One way to think of a multi-dimensional array, is as an array of arrays. When you use brackets to access your array, the first set of brackets refers to the entries in the outermost (the first level) array, and each additional pair of brackets refers to the next level of entries inside.
+// Shopping List
+// Create a shopping list in the variable myList. The list should be a multi-dimensional array containing several sub-arrays.
 //
-//     Example
+//     The first element in each sub-array should contain a string with the name of the item. The second element should be a number representing the quantity i.e.
 //
-// const arr = [
-//     [1, 2, 3],
-//     [4, 5, 6],
-//     [7, 8, 9],
-//     [[10, 11, 12], 13, 14]
-// ];
-//
-// const subarray = arr[3];
-// const nestedSubarray = arr[3][0];
-// const element = arr[3][0][1];
-// In this example, subarray has the value [[10, 11, 12], 13, 14], nestedSubarray has the value [10, 11, 12], and element has the value 11 .
-//
-//     Note: There shouldn't be any spaces between the array name and the square brackets, like array [0][0] and even this array [0] [0] is not allowed. Although JavaScript is able to process this correctly, this may confuse other programmers reading your code.
-//
-// Using bracket notation select an element from myArray such that myData is equal to 8.
+//     ["Chocolate Bar", 15]
+// There should be at least 5 sub-arrays in the list.
 
-const myArray = [
-    [1, 2, 3],
-    [4, 5, 6],
-    [7, 8, 9],
-    [[10, 11, 12], 13, 14],
+const myList = [["fruits", 15],
+    ["vegetables", 15],
+    ["bread", 1],
+    ["milk", 2],
+    ["Pizza", 1],
 ];
-
-const myData = myArray[2][1];
