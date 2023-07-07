@@ -1,13 +1,14 @@
-// Divide One Number by Another with JavaScript
-//     We can also divide one number by another.
+// Constructing Strings with Variables
+//     Sometimes you will need to build a string. By using the concatenation operator (+), you can insert one or more variables into a string you're building.
 //
-//     JavaScript uses the / symbol for division.
+// Example:
 //
-//                                          Example
+//     const ourName = "freeCodeCamp";
+// const ourStr = "Hello, our name is " + ourName + ", how are you?";
+// ourStr would have a value of the string Hello, our name is freeCodeCamp, how are you?.
 //
-//                                      const myVar = 16 / 2;
-// myVar now has the value 8.
-//
-// Change the 0 so that the quotient is equal to 2.
+//     Set myName to a string equal to your name and build myStr with myName between the strings My name is  and  and I am well!
 
-const quotient = 66 / 33;
+// Only change code below this line
+const myName = "Yevhenii";
+const myStr = "My name is" + myName + ", and I am well!"
