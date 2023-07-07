@@ -1,18 +1,29 @@
-// Access Array Data with Indexes
-//     We can access the data inside arrays using indexes.
+// Access Multi-Dimensional Arrays With Indexes
+// One way to think of a multi-dimensional array, is as an array of arrays. When you use brackets to access your array, the first set of brackets refers to the entries in the outermost (the first level) array, and each additional pair of brackets refers to the next level of entries inside.
 //
-//     Array indexes are written in the same bracket notation that strings use, except that instead of specifying a character, they are specifying an entry in the array. Like strings, arrays use zero-based indexing, so the first element in an array has an index of 0.
+//     Example
 //
+// const arr = [
+//     [1, 2, 3],
+//     [4, 5, 6],
+//     [7, 8, 9],
+//     [[10, 11, 12], 13, 14]
+// ];
 //
-// Example
+// const subarray = arr[3];
+// const nestedSubarray = arr[3][0];
+// const element = arr[3][0][1];
+// In this example, subarray has the value [[10, 11, 12], 13, 14], nestedSubarray has the value [10, 11, 12], and element has the value 11 .
 //
-// const array = [50, 60, 70];
-// console.log(array[0]);
-// const data = array[1];
-// The console.log(array[0]) prints 50, and data has the value 60.
+//     Note: There shouldn't be any spaces between the array name and the square brackets, like array [0][0] and even this array [0] [0] is not allowed. Although JavaScript is able to process this correctly, this may confuse other programmers reading your code.
 //
-// Create a variable called myData and set it to equal the first value of myArray using bracket notation.
-//
+// Using bracket notation select an element from myArray such that myData is equal to 8.
 
-const myArray = [50, 60, 70];
-const myData = myArray[0];
+const myArray = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [[10, 11, 12], 13, 14],
+];
+
+const myData = myArray[2][1];
