@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80cbd4fb-d1d9-4b41-a8db-e12e4e320dad" name="Changes" comment="Appending Variables to Strings" />
+    <list default="true" id="80cbd4fb-d1d9-4b41-a8db-e12e4e320dad" name="Changes" comment="Shopping List">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_java_script/Comment Your JavaScript Code.js" beforeDir="false" afterPath="$PROJECT_DIR$/basic_java_script/Comment Your JavaScript Code.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,8 @@
       <workItem from="1688506606031" duration="901000" />
       <workItem from="1688576122965" duration="114000" />
       <workItem from="1688576325314" duration="1010000" />
-      <workItem from="1688755098337" duration="1190000" />
+      <workItem from="1688755098337" duration="5622000" />
+      <workItem from="1688802604167" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="Understanding Uninitialized Variables">
       <option name="closed" value="true" />
@@ -127,7 +131,55 @@
       <option name="project" value="LOCAL" />
       <updated>1688755378191</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Bracket notation">
+      <option name="closed" value="true" />
+      <created>1688757265856</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688757265856</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Bracket notation">
+      <option name="closed" value="true" />
+      <created>1688757284718</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688757284718</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Use Bracket Notation to Find the Nth-to-Last Character in a String">
+      <option name="closed" value="true" />
+      <created>1688758444171</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688758444171</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Access Array Data with Indexes">
+      <option name="closed" value="true" />
+      <created>1688767016083</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1688767016083</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Access Multi-Dimensional Arrays With Indexes">
+      <option name="closed" value="true" />
+      <created>1688767722047</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1688767722047</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Shopping List">
+      <option name="closed" value="true" />
+      <created>1688770875802</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1688770875802</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +192,13 @@
     <MESSAGE value="Divide One Number by Another with JavaScript" />
     <MESSAGE value="Constructing Strings with Variables" />
     <MESSAGE value="Appending Variables to Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Appending Variables to Strings" />
+    <MESSAGE value="Bracket notation is a way to get a character at a specific index within a string.&#10;//" />
+    <MESSAGE value="Bracket notation is a way to get a character in a StringBracket notation" />
+    <MESSAGE value="Bracket notation" />
+    <MESSAGE value="Use Bracket Notation to Find the Nth-to-Last Character in a String" />
+    <MESSAGE value="Access Array Data with Indexes" />
+    <MESSAGE value="Access Multi-Dimensional Arrays With Indexes" />
+    <MESSAGE value="Shopping List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shopping List" />
   </component>
 </project>
