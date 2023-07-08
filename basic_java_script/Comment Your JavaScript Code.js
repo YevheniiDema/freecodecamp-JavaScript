@@ -1,14 +1,19 @@
-// Shopping List
-// Create a shopping list in the variable myList. The list should be a multi-dimensional array containing several sub-arrays.
+// Example
 //
-//     The first element in each sub-array should contain a string with the name of the item. The second element should be a number representing the quantity i.e.
+// function plusThree(num) {
+//     return num + 3;
+// }
 //
-//     ["Chocolate Bar", 15]
-// There should be at least 5 sub-arrays in the list.
+// const answer = plusThree(5);
+// answer has the value 8.
+//
+// plusThree takes an argument for num and returns a value equal to num + 3.
+//
+// Create a function timesFive that accepts one argument, multiplies it by 5, and returns the new value.
+//
 
-const myList = [["fruits", 15],
-    ["vegetables", 15],
-    ["bread", 1],
-    ["milk", 2],
-    ["Pizza", 1],
-];
+
+function timesFive(num) {
+    return num * 5;
+}
+const result = timesFive(5);
