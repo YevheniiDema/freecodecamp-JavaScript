@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80cbd4fb-d1d9-4b41-a8db-e12e4e320dad" name="Changes" comment="Shopping List">
+    <list default="true" id="80cbd4fb-d1d9-4b41-a8db-e12e4e320dad" name="Changes" comment="Global Scope and Functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_java_script/Comment Your JavaScript Code.js" beforeDir="false" afterPath="$PROJECT_DIR$/basic_java_script/Comment Your JavaScript Code.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <workItem from="1688576122965" duration="114000" />
       <workItem from="1688576325314" duration="1010000" />
       <workItem from="1688755098337" duration="5622000" />
-      <workItem from="1688802604167" duration="603000" />
+      <workItem from="1688802604167" duration="1690000" />
     </task>
     <task id="LOCAL-00001" summary="Understanding Uninitialized Variables">
       <option name="closed" value="true" />
@@ -179,7 +178,31 @@
       <option name="project" value="LOCAL" />
       <updated>1688770875802</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Shopping List">
+      <option name="closed" value="true" />
+      <created>1688803806978</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1688803806978</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Return a Value from a Function with Return">
+      <option name="closed" value="true" />
+      <created>1688803830406</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1688803830406</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Global Scope and Functions">
+      <option name="closed" value="true" />
+      <created>1688804289257</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1688804289257</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +222,8 @@
     <MESSAGE value="Access Array Data with Indexes" />
     <MESSAGE value="Access Multi-Dimensional Arrays With Indexes" />
     <MESSAGE value="Shopping List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Shopping List" />
+    <MESSAGE value="Return a Value from a Function with Return" />
+    <MESSAGE value="Global Scope and Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Global Scope and Functions" />
   </component>
 </project>
