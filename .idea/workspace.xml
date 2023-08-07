@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80cbd4fb-d1d9-4b41-a8db-e12e4e320dad" name="Changes" comment="Global Scope and Functions" />
+    <list default="true" id="80cbd4fb-d1d9-4b41-a8db-e12e4e320dad" name="Changes" comment="Understanding Undefined Value returned">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_java_script/Comment Your JavaScript Code.js" beforeDir="false" afterPath="$PROJECT_DIR$/basic_java_script/Comment Your JavaScript Code.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a5cb8732-8a0c-4bcf-99d5-fc7238d6d37c" />
+        <option name="url" value="git@github.com:YevheniiDema/freecodecamp-JavaScript.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,7 +63,8 @@
       <workItem from="1688576325314" duration="1010000" />
       <workItem from="1688755098337" duration="5622000" />
       <workItem from="1688802604167" duration="1690000" />
-      <workItem from="1689315430245" duration="692000" />
+      <workItem from="1689315430245" duration="2080000" />
+      <workItem from="1691442730927" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="Understanding Uninitialized Variables">
       <option name="closed" value="true" />
@@ -217,7 +234,31 @@
       <option name="project" value="LOCAL" />
       <updated>1689319785036</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Global Scope and Functions">
+      <option name="closed" value="true" />
+      <created>1689319815814</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1689319815814</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Local Scope and Functions">
+      <option name="closed" value="true" />
+      <created>1689320174042</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1689320174042</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Understanding Undefined Value returned">
+      <option name="closed" value="true" />
+      <created>1689324439666</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1689324439666</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +280,8 @@
     <MESSAGE value="Shopping List" />
     <MESSAGE value="Return a Value from a Function with Return" />
     <MESSAGE value="Global Scope and Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Global Scope and Functions" />
+    <MESSAGE value="Local Scope and Functions" />
+    <MESSAGE value="Understanding Undefined Value returned" />
+    <option name="LAST_COMMIT_MESSAGE" value="Understanding Undefined Value returned" />
   </component>
 </project>
